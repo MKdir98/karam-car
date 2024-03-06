@@ -1,0 +1,12 @@
+2023-12-23 09:39:56,718  root       get_pty    DEBUG    Pty name: /dev/pts/4
+2023-12-23 09:39:56,718  root       run        INFO     
+
+ELM327 OBD-II adapter emulator v3.0.0 started on pseudo-tty port "/dev/pts/4".
+
+2023-12-23 09:40:46,545  root       terminate  DEBUG    Start termination procedure.
+2023-12-23 09:40:47,646  root       terminate  DEBUG    Terminated.
+2023-12-23 09:40:49,077  root       get_pty    DEBUG    Pty name: /dev/pts/4
+2023-12-23 09:40:49,077  root       run        INFO     
+
+ELM327 OBD-II adapter emulator v3.0.0 started on pseudo-tty port "/dev/pts/4".
+
